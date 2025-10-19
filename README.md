@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ziad Mohamed</h1>
-<h3 align="center">Electric Ground Leader @ MIA | Robocon 2025 Mongolia</h3>
-
----
-
-🎯 I'm currently leading the Electric Ground team for **Robocon 2025**, where we're building a basketball-themed robot to compete in **Mongolia** 🏀🤖
 
 ⚡ I'm passionate about:
 
