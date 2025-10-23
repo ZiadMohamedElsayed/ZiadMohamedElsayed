@@ -35,7 +35,7 @@
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/10HCmGjYSy1vRyJfqgwo6DwgKCiiOwR3E/view?usp=sharing" target="">
+  <a href="https://drive.google.com/file/d/1bbGdF9s3LJlFJzTk8JgY33lXGkSObd3k/view?usp=sharing" target="">
     <img src="https://img.icons8.com/plasticine/100/resume.png" alt="CV" height="40" width="40" />
   </a>
 </p>
